@@ -1536,6 +1536,12 @@ ul.listing-style.modify li:before {
 .full-width-header .rs-header .topbar-area .topbar-right li.login-register a:hover {
   color: #255fe4;
 }
+
+.apply-btn{
+  border: 2px solid white !important;
+    box-shadow: 5px 5px 5px 3px rgb(0 0 0 / 20%) !important;
+}
+
 .full-width-header .rs-header .topbar-area .topbar-right li a.apply-btn {
   color: #ffffff;
   background: #255fe4;
