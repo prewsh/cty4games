@@ -8287,6 +8287,17 @@ body .modal-backdrop {
 /* ------------------------------------
     15. Team Section CSS
 ---------------------------------------*/
+
+.team-item{
+  width: 280px !important;
+  height: 280px !important;
+}
+
+.team-item > img {
+  height: 100% !important;
+  width: 100% !important;
+}
+
 .rs-team.style1 .team-item {
   position: relative;
   overflow: hidden;
